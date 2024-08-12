@@ -2,7 +2,7 @@
 
 ## Frontend Developer from Sweden
 
-I specialize in frontend development and mentoring for beginners and web development.
+I specialize in frontend development and mentoring for beginners web development.
 
 ### 🌐 My Portfolio
 [Check out my portfolio](https://i-frontend.su/)
