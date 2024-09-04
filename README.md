@@ -1,4 +1,4 @@
-# Hi 👋 I'm Ilay
+# Hi 👋 I'm Oleh
 
 ## Frontend Developer from Sweden
 
