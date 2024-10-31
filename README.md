@@ -13,8 +13,14 @@ I specialize in frontend development and mentoring for beginners web development
 ### 🛠️ Technology Stack
 - HTML
 - CSS
+- Tiwling 
 - JavaScript
+- Typescript
 - React / Redux
+- Nextjs
+- graphQL 
+- node js
+- superbase
 
 ### 📬 Contact Me
 Feel free to reach out via email: [stoynov.oleg@gmail.com](mailto:stoynov.oleg@gmail.com)
