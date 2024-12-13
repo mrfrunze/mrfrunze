@@ -7,6 +7,9 @@ I specialize in frontend development and mentoring for beginners web development
 ### 🌐 My Portfolio
 [Check out my portfolio](https://i-frontend.su/)
 
+### 🌐 My React Project
+[React Project](https://react-portfolio-cms.netlify.app/)
+
 ### 📺 My YouTube Channel
 [Visit my YouTube Channel](https://www.youtube.com/channel/UCStPiUDdMG-aJPziQyqVZVg)
 
